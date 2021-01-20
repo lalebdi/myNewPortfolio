@@ -59,9 +59,9 @@ This is my porfolio site that I created using Gastby. Hope you like it.
 ```sh
 git clone https://github.com/lalebdi/myNewPortfolio.git
 ```
-2. Install NPM packages
+2. Install packages
 ```sh
-npm install
+yarn install
 ```
 
 
