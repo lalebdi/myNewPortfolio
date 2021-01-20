@@ -43,8 +43,8 @@ This is my porfolio site that I created using Gastby. Hope you like it. Must use
 ### Built With
 
 * Gatsby
-* bootstrap
-* Scrollspy
+* Bootstrap
+* Google analytics
 * Smoothscroll-Polyfill
 * Font-Awesome
 
