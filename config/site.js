@@ -3,7 +3,7 @@ module.exports = {
   keywords: [
     "leah",
     "web development",
-    "landing page",
+    "software engineering",
     "landing",
     "i18n",
     "eslint",
