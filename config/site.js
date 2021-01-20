@@ -4,7 +4,7 @@ module.exports = {
     "leah",
     "web development",
     "software engineering",
-    "landing",
+    "full stack",
     "i18n",
     "eslint",
     "bootstrap",
