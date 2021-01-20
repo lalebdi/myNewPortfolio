@@ -69,3 +69,5 @@ PortfolioDetailDialog.defaultProps = {
 };
 
 export default PortfolioDetailDialog;
+
+

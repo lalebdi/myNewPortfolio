@@ -5,3 +5,5 @@ export default function nl2br(str) {
 
   return str.replace(/\r\n/g, "<br />").replace(/\n|\r/g, "<br />");
 }
+
+

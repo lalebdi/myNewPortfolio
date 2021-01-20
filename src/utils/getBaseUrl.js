@@ -7,3 +7,5 @@ function getBaseUrl(defaultLang, lang) {
 }
 
 module.exports = getBaseUrl;
+
+

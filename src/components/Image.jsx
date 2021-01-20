@@ -46,3 +46,5 @@ Image.defaultProps = {
 };
 
 export default Image;
+
+

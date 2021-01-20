@@ -12,3 +12,5 @@ Medium.propTypes = {
 };
 
 export default Medium;
+
+

@@ -19,3 +19,5 @@ module.exports = {
     ja: "日本語",
   },
 };
+
+

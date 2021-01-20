@@ -20,3 +20,5 @@ IconText.propTypes = {
 };
 
 export default IconText;
+
+

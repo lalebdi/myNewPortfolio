@@ -27,3 +27,5 @@ const useSmoothScrollTo = (anchorOrPosition, options = {}) => {
 };
 
 export default useSmoothScrollTo;
+
+
