@@ -12,7 +12,7 @@ module.exports = {
   ],
   description: "gatsby version of startbootstrap-agency with i18n support.",
   author: "lalebdi",
-  trackingId: "UA-119418003-5",
+  trackingId: "G-X5132XV2CY",
   defaultLang: "en",
   langTextMap: {
     en: "English",
