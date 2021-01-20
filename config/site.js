@@ -5,7 +5,7 @@ module.exports = {
     "web development",
     "software engineering",
     "full stack",
-    "i18n",
+    "python",
     "eslint",
     "bootstrap",
     "startbootstrap-agency",
