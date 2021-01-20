@@ -31,7 +31,7 @@
 ## About The Project
 
 
-This is my porfolio site that I created using Gastby. Hope you like it.
+This is my porfolio site that I created using Gastby. Hope you like it. Must use yarn. Avoid npm please.
 
 
 * Gatsby is a static site generator.
