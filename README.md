@@ -43,7 +43,7 @@ This is my porfolio site that I created using Gastby. Hope you like it. Must use
 ### Built With
 
 * Gatsby
-* React Modal
+* bootstrap
 * Scrollspy
 * Smoothscroll-Polyfill
 * Font-Awesome
