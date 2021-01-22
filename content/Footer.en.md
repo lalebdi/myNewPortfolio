@@ -1,7 +1,7 @@
 ---
 copyright: "Copyright © Leah software Engineering 2020"
 social: {
-  medium: "#",
+  facebook: "#",
   linkedin: "#",
   github: "#"
 }
