@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Gatsyby Startbootstrap Agency",
+  title: "Leah's Portfolio | Full Stack Software Engineer",
   keywords: [
     "leah",
     "web development",
@@ -10,7 +10,7 @@ module.exports = {
     "bootstrap",
     "startbootstrap-agency",
   ],
-  description: "gatsby version of startbootstrap-agency with i18n support.",
+  description: "leah full stack software engineering.",
   author: "lalebdi",
   trackingId: "G-X5132XV2CY",
   defaultLang: "en",
