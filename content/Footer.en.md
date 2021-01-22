@@ -3,7 +3,7 @@ copyright: "Copyright © Leah software Engineering 2020"
 social: {
   facebook: "#",
   linkedin: "#",
-  github: "#"
+  github: "https://github.com/lalebdi"
 }
 privacyText: "Privacy Policy"
 privacyHref: "#!"
