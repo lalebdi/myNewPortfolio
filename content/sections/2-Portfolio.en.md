@@ -6,10 +6,10 @@ portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
-    header: "Threads",
+    header: "Make Awesome Projects 1.0",
     subheader: "Illustration",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
+    content: "The first version of this amazing interactive project management tool that I created to help me organize my tasks for in progress projects. M.A.P 2.0 is 75% done and will be release soon with new features such as lists and cards that drag and drop and a completely redisgned UI.",
+    extraInfo: ["React, Redux", "Java, Spring Boot", "Axios, Bootstrap"]
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
