@@ -38,10 +38,10 @@ portfolios: [
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
-    header: "Southwest",
+    header: "WhatsChat",
     subheader: "Website Design",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
+    content: "A live chatting app.",
+    extraInfo: ["React, Socket io", "React-Emoji, React-Router", "Node, and Express"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
