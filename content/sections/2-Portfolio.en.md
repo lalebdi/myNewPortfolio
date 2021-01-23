@@ -46,10 +46,10 @@ portfolios: [
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
     imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "Window",
+    header: "CryptoCharts",
     subheader: "Photography",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
+    content: "A live cryptocurrency price ticker with saved personal favorites and charts showing the price changes.",
+    extraInfo: ["React, Fuzzy, Lodash", "Moments, HighCharts", "Styled-Components."]
   }
 ]
 ---
