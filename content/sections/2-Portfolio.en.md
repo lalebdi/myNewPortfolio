@@ -22,10 +22,10 @@ portfolios: [
   {
     imageFileName: "portfolio/03-thumbnail.jpg",
     imageFileNameDetail: "portfolio/03-full.jpg",
-    header: "Finish",
+    header: "Voice News",
     subheader: "Identity",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Finish", "Category: Identity"]
+    content: "An Alexa clone. An interactive personal asisting tool to read the news and have a small chat with you.",
+    extraInfo: ["React, Material-UI", "Alan AI", "Words-to-Numbers, Classnames"]
   },
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
