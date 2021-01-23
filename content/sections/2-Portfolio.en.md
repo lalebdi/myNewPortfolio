@@ -30,10 +30,10 @@ portfolios: [
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
     imageFileNameDetail: "portfolio/04-full.jpg",
-    header: "Lines",
+    header: "LeahGram",
     subheader: "Branding",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Lines", "Category: Branding"]
+    content: "An instagram clone. Post and share pics with Firebase as a backend.",
+    extraInfo: ["React, Auth0", "Firebase, Framer Motion", "JSON Pretty"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
