@@ -5,7 +5,7 @@ subheader: "Lorem ipsum dolor sit amet consectetur."
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/01-full.gif",
+    imageFileNameDetail: "portfolio/01-thumbnail.jpg",
     header: "Make Awesome Projects 1.0",
     subheader: "Illustration",
     content: "The first version of this amazing interactive project management tool that I created to help me organize my tasks for in progress projects. M.A.P 2.0 is 75% done and will be release soon with new features such as lists and cards that drag and drop and a completely redisgned UI.",
