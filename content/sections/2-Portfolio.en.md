@@ -37,7 +37,7 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/05-full.gif",
+    imageFileNameDetail: "portfolio/05-thumbnail.jpg",
     header: "WhatsChat",
     subheader: "Website Design",
     content: "A live chatting app.",
