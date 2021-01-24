@@ -31,7 +31,7 @@ portfolios: [
     imageFileName: "portfolio/04-thumbnail.jpg",
     imageFileNameDetail: "portfolio/04-thumbnail.jpg",
     header: "LeahGram",
-    subheader: "Branding",
+    subheader: "Social Media",
     content: "An instagram clone. Post and share pics with Firebase as a backend.",
     extraInfo: ["React, Auth0", "Firebase, Framer Motion", "JSON Pretty"]
   },
