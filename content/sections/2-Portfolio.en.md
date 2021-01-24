@@ -15,7 +15,7 @@ portfolios: [
     imageFileName: "portfolio/02-thumbnail.jpg",
     imageFileNameDetail: "portfolio/02-thumbnail.jpg",
     header: "Beatle",
-    subheader: "Graphic Design",
+    subheader: "Project management",
     content: "A bug tracking tool that I created to help me keep track of bugs in my projects. You can create a bug, issue tickets and keep track of them.",
     extraInfo: ["MERN"]
   },
