@@ -45,7 +45,7 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/06-full.gif",
+    imageFileNameDetail: "portfolio/06-thumbnail.jpg",
     header: "CryptoCharts",
     subheader: "Photography",
     content: "A live cryptocurrency price ticker with saved personal favorites and charts showing the price changes.",
