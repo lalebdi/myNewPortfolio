@@ -21,7 +21,7 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/03-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/03-full.gif",
+    imageFileNameDetail: "portfolio/03-thumbnail.jpg",
     header: "Voice News",
     subheader: "Identity",
     content: "An Alexa clone. An interactive personal asisting tool to read the news and have a small chat with you.",
