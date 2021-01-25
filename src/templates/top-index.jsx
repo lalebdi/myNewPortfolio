@@ -53,6 +53,7 @@ export const query = graphql`
             subheader
             imageFileNameDetail
             imageFileName
+            site
           }
           privacyHref
           privacyText
