@@ -13,6 +13,7 @@ const PortfolioDetailDialog = ({
   subheader,
   content,
   extraInfo,
+  site,
   ...restProps
 }) => {
   return (
@@ -35,7 +36,7 @@ const PortfolioDetailDialog = ({
         />
         <p>{content}</p>
         {extraInfo}
-        <Button variant="primary" onClick={onHide}>
+        <Button variant="primary" href={site} target="_blank">
             <Icon iconName="LanguageIcon" />
             &nbsp; live site
           </Button>
@@ -60,6 +61,7 @@ PortfolioDetailDialog.propTypes = {
   subheader: PropTypes.string,
   content: PropTypes.string,
   extraInfo: PropTypes.any,
+  site: PropTypes.string
 };
 
 PortfolioDetailDialog.defaultProps = {
@@ -70,6 +72,7 @@ PortfolioDetailDialog.defaultProps = {
   subheader: "",
   content: "",
   extraInfo: null,
+  site:""
 };
 
 export default PortfolioDetailDialog;
