@@ -9,7 +9,8 @@ portfolios: [
     header: "Make Awesome Projects 1.0",
     subheader: "Project Planning",
     content: "The first version of this amazing interactive project management tool that I created to help me organize my tasks for in progress projects. M.A.P 2.0 is 75% done and will be release soon with new features such as lists and cards that drag and drop and a completely redisgned UI.",
-    extraInfo: ["React, Redux", "Java, Spring Boot", "Axios, Bootstrap"]
+    extraInfo: ["React, Redux", "Java, Spring Boot", "Axios, Bootstrap"],
+    site: "https://www.google.com"
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
@@ -17,7 +18,8 @@ portfolios: [
     header: "Beatle",
     subheader: "Project management",
     content: "A bug tracking tool that I created to help me keep track of bugs in my projects. You can create a bug, issue tickets and keep track of them.",
-    extraInfo: ["MERN"]
+    extraInfo: ["MERN"],
+    site: "https://www.youtube.com"
   },
   {
     imageFileName: "portfolio/03-thumbnail.jpg",
@@ -25,7 +27,8 @@ portfolios: [
     header: "Voice News",
     subheader: "Identity",
     content: "An Alexa clone. An interactive personal asisting tool to read the news and have a small chat with you.",
-    extraInfo: ["React, Material-UI", "Alan AI", "Words-to-Numbers, Classnames"]
+    extraInfo: ["React, Material-UI", "Alan AI", "Words-to-Numbers, Classnames"],
+    site: "https://www.google.com"
   },
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
@@ -33,7 +36,8 @@ portfolios: [
     header: "LeahGram",
     subheader: "Social Media",
     content: "An instagram clone. Post and share pics with Firebase as a backend.",
-    extraInfo: ["React, Auth0", "Firebase, Framer Motion", "JSON Pretty"]
+    extraInfo: ["React, Auth0", "Firebase, Framer Motion", "JSON Pretty"],
+    site: "https://www.netflix.com"
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
@@ -41,7 +45,8 @@ portfolios: [
     header: "WhatsChat",
     subheader: "Website Design",
     content: "A live chatting app.",
-    extraInfo: ["React, Socket io", "React-Emoji, React-Router", "Node, and Express"]
+    extraInfo: ["React, Socket io", "React-Emoji, React-Router", "Node, and Express"],
+    site: "https://www.instagram.com"
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
@@ -49,7 +54,8 @@ portfolios: [
     header: "CryptoCharts",
     subheader: "Photography",
     content: "A live cryptocurrency price ticker with saved personal favorites and charts showing the price changes.",
-    extraInfo: ["React, Fuzzy, Lodash", "Moments, HighCharts", "Styled-Components."]
+    extraInfo: ["React, Fuzzy, Lodash", "Moments, HighCharts", "Styled-Components."],
+    site: "https://www.facebook.com"
   }
 ]
 ---
