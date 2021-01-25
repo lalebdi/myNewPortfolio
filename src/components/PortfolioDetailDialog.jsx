@@ -35,6 +35,10 @@ const PortfolioDetailDialog = ({
         />
         <p>{content}</p>
         {extraInfo}
+        <Button variant="primary" onClick={onHide}>
+            <Icon iconName="LanguageIcon" />
+            &nbsp; live site
+          </Button>
       </Modal.Body>
       <Modal.Footer>
         <div className="mx-auto">
