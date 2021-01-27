@@ -1,6 +1,6 @@
 ---
 anchor: "About"
-header: "Skills"
+header: "About"
 subheader: "A list of my skills."
 timeline: [
   {
