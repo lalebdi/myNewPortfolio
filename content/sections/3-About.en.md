@@ -11,13 +11,13 @@ timeline: [
   },
   {
     imageFileName: "about/2.jpg",
-    header: "Backend",
+    header: "Back-end",
     subheader: "An Agency is Born",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
     imageFileName: "about/3.jpg",
-    header: "December 2012",
+    header: "Front-end",
     subheader: "Transition to Full Service",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
