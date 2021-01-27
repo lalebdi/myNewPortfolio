@@ -10,7 +10,7 @@ portfolios: [
     subheader: "Project Planning",
     content: "The first version of this amazing interactive project management tool that I created to help me organize my tasks for in progress projects. M.A.P 2.0 is 75% done and will be release soon with new features such as lists and cards that drag and drop and a completely redisgned UI.",
     extraInfo: ["React, Redux", "Java, Spring Boot", "Axios, Bootstrap"],
-    site: "https://www.google.com"
+    site: "https://keen-khorana-d28887.netlify.app/"
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
