@@ -1,7 +1,7 @@
 ---
 anchor: "About"
 header: "Skills"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+subheader: "A list of my skills."
 timeline: [
   {
     imageFileName: "about/1.jpg",
