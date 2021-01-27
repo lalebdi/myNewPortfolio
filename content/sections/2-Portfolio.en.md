@@ -37,7 +37,7 @@ portfolios: [
     subheader: "Social Media",
     content: "An instagram clone. Post and share pics with Firebase as a backend.",
     extraInfo: ["React, Auth0", "Firebase, Framer Motion", "JSON Pretty"],
-    site: "https://www.netflix.com"
+    site: "https://5f5533fde700eed9a95ea282--adoring-stonebraker-0be6df.netlify.app/"
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
