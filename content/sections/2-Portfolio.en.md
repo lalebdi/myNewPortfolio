@@ -28,7 +28,7 @@ portfolios: [
     subheader: "Identity",
     content: "An Alexa clone. An interactive personal asisting tool to read the news and have a small chat with you.",
     extraInfo: ["React, Material-UI", "Alan AI", "Words-to-Numbers, Classnames"],
-    site: "https://www.google.com"
+    site: "https://5f55304b080cf0e07c62f16a--sad-meninsky-ae278a.netlify.app/"
   },
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
