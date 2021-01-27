@@ -55,7 +55,7 @@ portfolios: [
     subheader: "Photography",
     content: "A live cryptocurrency price ticker with saved personal favorites and charts showing the price changes.",
     extraInfo: ["React, Fuzzy, Lodash", "Moments, HighCharts", "Styled-Components."],
-    site: "https://www.facebook.com"
+    site: "https://5f552ffdcbf55b28043a2301--epic-ride-b0dd1f.netlify.app/"
   }
 ]
 ---
