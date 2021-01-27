@@ -46,7 +46,7 @@ portfolios: [
     subheader: "Website Design",
     content: "A live chatting app.",
     extraInfo: ["React, Socket io", "React-Emoji, React-Router", "Node, and Express"],
-    site: "https://www.instagram.com"
+    site: "https://5f529d2bfd13113312e00abd--friendly-borg-6726ab.netlify.app/"
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
