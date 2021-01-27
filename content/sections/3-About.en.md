@@ -5,7 +5,7 @@ subheader: "A list of my skills."
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2009-2011",
+    header: "Programming Languages",
     subheader: "Our Humble Beginnings",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
