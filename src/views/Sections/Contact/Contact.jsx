@@ -26,14 +26,13 @@ const Contact = ({ className, frontmatter }) => {
       </Row>
       <div className="contact-section">
 
-  <form className="contact-form" action="index.html" method="post">
-    <input type="text" className="contact-form-text" placeholder="Your name"/>
-    <input type="email" className="contact-form-text" placeholder="Your email"/>
-    <input type="text" className="contact-form-text" placeholder="Your phone"/>
-    <textarea className="contact-form-text" placeholder="Your message"/>
-    <input type="submit" className="contact-form-btn" value="Send"/>
-  </form>
-</div>
+        <form className="contact-form" action="index.html" method="post">
+          <input type="text" className="contact-form-text" placeholder="Name"/>
+          <input type="email" className="contact-form-text" placeholder="Email"/>
+          <textarea className="contact-form-text" placeholder="Message"/>
+          <input type="submit" className="contact-form-btn" value="Send"/>
+        </form>
+      </div>
     </PageSection>
   );
 };
