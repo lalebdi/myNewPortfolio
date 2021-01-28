@@ -24,7 +24,7 @@ timeline: [
   {
     imageFileName: "about/4.jpg",
     header: "Databases",
-    subheader: "Phase Two Expansion",
+    subheader: "",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
