@@ -18,7 +18,7 @@ timeline: [
   {
     imageFileName: "about/3.jpg",
     header: "Front-end",
-    subheader: "Transition to Full Service",
+    subheader: "",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
