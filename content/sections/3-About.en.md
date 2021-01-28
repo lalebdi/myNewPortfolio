@@ -19,7 +19,7 @@ timeline: [
     imageFileName: "about/3.jpg",
     header: "Front-end",
     subheader: "",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "React - Gatsby - Next.JS."
   },
   {
     imageFileName: "about/4.jpg",
