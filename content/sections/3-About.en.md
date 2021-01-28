@@ -12,7 +12,7 @@ timeline: [
   {
     imageFileName: "about/2.jpg",
     header: "Back-end",
-    subheader: "An Agency is Born",
+    subheader: "",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
