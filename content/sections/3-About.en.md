@@ -19,7 +19,7 @@ timeline: [
     imageFileName: "about/3.jpg",
     header: "Front-end",
     subheader: "",
-    content: "React - Gatsby - Next.JS."
+    content: "React - Redux - Gatsby - Next.JS - CSS - SASS."
   },
   {
     imageFileName: "about/4.jpg",
