@@ -7,7 +7,7 @@ timeline: [
     imageFileName: "about/1.jpg",
     header: "Programming Languages",
     subheader: "",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "JavaScript - Python - Java."
   },
   {
     imageFileName: "about/2.jpg",
