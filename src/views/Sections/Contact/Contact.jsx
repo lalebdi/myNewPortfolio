@@ -2,8 +2,11 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import { Row, Col } from "react-bootstrap";
-import Icon from "components/Icon";
+// import Icon from "components/Icon";
 import PageSection from "components/PageSection";
+
+import "./style.css"
+
 
 const Contact = ({ className, frontmatter }) => {
   if (!frontmatter) {
@@ -21,20 +24,16 @@ const Contact = ({ className, frontmatter }) => {
           <p className="text-muted mb-5">{subheader}</p>
         </Col>
       </Row>
-      <Row>
-        <Col lg={4} className="ml-auto text-center">
-          <Icon iconName="PhoneIcon" size="3x" className="text-muted mb-3" />
-          <a className="d-block" href={`tel:${telephone}`}>
-            {telephone}
-          </a>
-        </Col>
-        <Col lg={4} className="mr-auto text-center">
-          <Icon iconName="EnvelopIcon" size="3x" className="text-muted mb-3" />
-          <a className="d-block" href={`mailto:${email}`}>
-            {email}
-          </a>
-        </Col>
-      </Row>
+      <div className="contact-section">
+
+  <form className="contact-form" action="index.html" method="post">
+    <input type="text" className="contact-form-text" placeholder="Your name"/>
+    <input type="email" className="contact-form-text" placeholder="Your email"/>
+    <input type="text" className="contact-form-text" placeholder="Your phone"/>
+    <textarea className="contact-form-text" placeholder="Your message"/>
+    <input type="submit" className="contact-form-btn" value="Send"/>
+  </form>
+</div>
     </PageSection>
   );
 };
