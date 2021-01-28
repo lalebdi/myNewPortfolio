@@ -10,12 +10,6 @@
   text-align: center;
   color: #ddd;
 }
-.border {
-  width: 100px;
-  height: 10px;
-  background: #34495e;
-  margin: 40px auto;
-}
 
 .contact-form {
   max-width: 600px;
