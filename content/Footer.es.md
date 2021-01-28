@@ -1,9 +1,9 @@
 ---
 copyright: "Copyright © Leah software Engineering 2020"
 social: {
-  twitter: "#",
-  facebook: "leah-web-dev",
-  medium: "lalebdi"
+  facebook: "#",
+  linkedin: "leah-web-dev",
+  github: "lalebdi"
 }
 privacyText: "Política de privacidad"
 privacyHref: "#!"
