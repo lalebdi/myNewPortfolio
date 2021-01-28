@@ -13,7 +13,7 @@ timeline: [
     imageFileName: "about/2.jpg",
     header: "Back-end",
     subheader: "",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "Django - Flask - Spring Boot - Node - Express."
   },
   {
     imageFileName: "about/3.jpg",
