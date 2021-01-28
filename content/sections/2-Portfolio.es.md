@@ -5,7 +5,7 @@ subheader: "Eche un vistazo a algunos de mis trabajos."
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/01-full.jpg",
+    imageFileNameDetail: "portfolio/01-thumbnail.jpg",
     header: "Make Awesome Projects 1.0",
     subheader: "Planificación de proyectos",
     content: "La primera versión de esta increíble herramienta interactiva de gestión de proyectos que creé para ayudarme a organizar mis tareas para proyectos en curso. M.A.P 2.0 está terminado en un 75% y se lanzará pronto con nuevas funciones como listas y tarjetas que se arrastran y sueltan y una interfaz de usuario completamente rediseñada.",
@@ -14,7 +14,7 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/02-full.jpg",
+    imageFileNameDetail: "portfolio/02-thumbnail.jpg",
     header: "Beatle",
     subheader: "Gestión de proyectos",
     content: "Una herramienta de seguimiento de errores que creé para ayudarme a realizar un seguimiento de los errores en mis proyectos. Puede crear un error, emitir tickets y realizar un seguimiento de ellos.",
@@ -23,7 +23,7 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/03-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/03-full.jpg",
+    imageFileNameDetail: "portfolio/03-thumbnail.jpg",
     header: "Voice News",
     subheader: "API",
     content: "Un clon de Alexa. Una herramienta interactiva de asistencia personal para leer las noticias y tener una pequeña charla contigo.",
@@ -32,7 +32,7 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/04-full.jpg",
+    imageFileNameDetail: "portfolio/04-thumbnail.jpg",
     header: "LeahGram",
     subheader: "Redes sociales",
     content: "Un clon de instagram. Publica y comparte fotos con Firebase como backend.",
@@ -41,7 +41,7 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/05-full.jpg",
+    imageFileNameDetail: "portfolio/05-thumbnail.jpg",
     header: "WhatsChat",
     subheader: "Comunicación",
     content: "Una aplicación de chat en vivo.",
@@ -50,7 +50,7 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/06-full.jpg",
+    imageFileNameDetail: "portfolio/06-thumbnail.jpg",
     header: "CryptoCharts",
     subheader: "Criptomoneda",
     content: "Un indicador de precios de criptomonedas en vivo con favoritos personales guardados y gráficos que muestran los cambios de precios.",
