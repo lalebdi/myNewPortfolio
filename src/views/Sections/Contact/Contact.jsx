@@ -25,8 +25,7 @@ const Contact = ({ className, frontmatter }) => {
         </Col>
       </Row>
       <div className="contact-section">
-
-        <form className="contact-form" action="index.html" method="post">
+        <form className="contact-form" action="https://formspree.io/xdowrjre" method="POST">
           <input type="text" className="contact-form-text" placeholder="Name"/>
           <input type="email" className="contact-form-text" placeholder="Email"/>
           <textarea className="contact-form-text" placeholder="Message"/>
