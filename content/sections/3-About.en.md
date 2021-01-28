@@ -25,7 +25,7 @@ timeline: [
     imageFileName: "about/4.jpg",
     header: "Databases",
     subheader: "",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "PostreSQL - MySQL - MongoDB - Firebase."
   },
   {
     imageContent: "Be Part\r\nOf My\r\nStory!"
