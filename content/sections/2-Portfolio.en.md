@@ -25,7 +25,7 @@ portfolios: [
     imageFileName: "portfolio/03-thumbnail.jpg",
     imageFileNameDetail: "portfolio/03-thumbnail.jpg",
     header: "Voice News",
-    subheader: "Identity",
+    subheader: "API",
     content: "An Alexa clone. An interactive personal asisting tool to read the news and have a small chat with you.",
     extraInfo: ["React, Material-UI", "Alan AI", "Words-to-Numbers, Classnames"],
     site: "https://5f55304b080cf0e07c62f16a--sad-meninsky-ae278a.netlify.app/"
@@ -43,7 +43,7 @@ portfolios: [
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-thumbnail.jpg",
     header: "WhatsChat",
-    subheader: "Website Design",
+    subheader: "Communication",
     content: "A live chatting app.",
     extraInfo: ["React, Socket io", "React-Emoji, React-Router", "Node, and Express"],
     site: "https://5f529d2bfd13113312e00abd--friendly-borg-6726ab.netlify.app/"
@@ -52,7 +52,7 @@ portfolios: [
     imageFileName: "portfolio/06-thumbnail.jpg",
     imageFileNameDetail: "portfolio/06-thumbnail.jpg",
     header: "CryptoCharts",
-    subheader: "Photography",
+    subheader: "CryptoCurrency",
     content: "A live cryptocurrency price ticker with saved personal favorites and charts showing the price changes.",
     extraInfo: ["React, Fuzzy, Lodash", "Moments, HighCharts", "Styled-Components."],
     site: "https://5f552ffdcbf55b28043a2301--epic-ride-b0dd1f.netlify.app/"
