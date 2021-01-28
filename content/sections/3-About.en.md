@@ -13,7 +13,7 @@ timeline: [
     imageFileName: "about/2.jpg",
     header: "Back-end",
     subheader: "",
-    content: "Django - Flask - Spring Boot - Node - Express."
+    content: "Django - Flask - Spring Boot - Node Express."
   },
   {
     imageFileName: "about/3.jpg",
