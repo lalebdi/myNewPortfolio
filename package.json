@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-startbootstrap-agency",
-  "description": "gatsby version of startbootstrap-agency with i18n support",
+  "name": "gatsby-porfolio-site",
+  "description": "gatsby version with i18n support",
   "version": "0.1.0",
-  "author": "thundermiracle",
+  "author": "lalebdi",
   "bugs": {
-    "url": "https://github.com/thundermiracle/gatsby-startbootstrap-agency/issues"
+    "url": "https://github.com/lalebdi/myNewPortfolio/issues"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
@@ -59,22 +59,22 @@
     "gatsby-plugin-eslint": "^2.0.8",
     "prettier": "^2.0.4"
   },
-  "homepage": "https://thundermiracle.github.io/gatsby-startbootstrap-agency",
+  "homepage": "https://www.leahwebdev.com/",
   "keywords": [
-    "gatsby",
-    "gatsbyjs",
-    "landing page",
-    "landing",
-    "i18n",
-    "eslint",
-    "bootstrap",
-    "startbootstrap-agency"
+    "Leah",
+    "web developer",
+    "web development",
+    "software engineer",
+    "full-stack",
+    "full stack",
+    "python",
+    "react"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thundermiracle/gatsby-startbootstrap-agency.git"
+    "url": "git+https://github.com/lalebdi/myNewPortfolio.git"
   },
   "scripts": {
     "clean": "gatsby clean",
