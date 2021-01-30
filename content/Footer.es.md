@@ -1,7 +1,7 @@
 ---
-copyright: "Copyright © Leah software Engineering 2020"
+copyright: "Copyright © Leah software Engineering 2021"
 social: {
-  facebook: "#",
+  facebook: "view?usp=sharing",
   linkedin: "leah-web-dev",
   github: "lalebdi"
 }
