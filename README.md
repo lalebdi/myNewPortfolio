@@ -34,8 +34,9 @@
 This is my porfolio site that I created using Gastby. Hope you like it. Must use yarn. Avoid npm please.
 
 
+
 * Gatsby is a static site generator.
-* Fast, Safe and secure.
+*  Built with i18n.
 *  :smile:
 
 
@@ -46,7 +47,7 @@ This is my porfolio site that I created using Gastby. Hope you like it. Must use
 * Bootstrap
 * Google analytics
 * SASS
-* Font-Awesome
+* i18n support.
 
 
 
