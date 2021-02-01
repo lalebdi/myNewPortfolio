@@ -23,7 +23,6 @@
 * [Getting Started](#getting-started)
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
-* [Configuration](#configuration)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
