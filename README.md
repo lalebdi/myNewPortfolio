@@ -20,6 +20,10 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+* [Getting Started](#getting-started)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
+* [Configuration](#configuration)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
@@ -51,6 +55,22 @@ This is my porfolio site that I created using Gastby. Hope you like it. Must use
 
 
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+There are few things you need to install on you local machine to be able to configure the app.
+
+### Prerequisites
+
+First you need to install Gastby cli.
+* npm
+  ```sh
+  npm install -g gatsby-cli
+  ```
+* Or use Homebrew...
+    ```sh
+  brew install gatsby-cli
+  ```
 
 
 ### Installation
@@ -58,13 +78,16 @@ This is my porfolio site that I created using Gastby. Hope you like it. Must use
 
 1. Clone the repo
 ```sh
-git clone https://github.com/lalebdi/myNewPortfolio.git
+git clone https://github.com/lalebdi/GatsbyPorfolioTemplate.git
 ```
 2. Install packages
 ```sh
 yarn install
 ```
-
+3. Launch the app
+```sh
+Gatsby develop
+```
 
 
 
