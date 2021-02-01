@@ -7,7 +7,7 @@ social: {
 }
 privacyText: "Política de privacidad"
 privacyHref: "#!"
-termsText: "Términos de Uso"
+termsText: "Sitio web antiguo"
 termsHref: "#!"
 ---
 
