@@ -8,7 +8,7 @@ social: {
 privacyText: "Política de privacidad"
 privacyHref: "#!"
 termsText: "Sitio web antiguo"
-termsHref: "#!"
+termsHref: "https://master.d2kfej3keqh1q4.amplifyapp.com"
 ---
 
 
